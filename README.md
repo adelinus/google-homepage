@@ -1,1 +1,1 @@
-# google-homepage
+Just a basic Google clone without functionality.

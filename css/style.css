@@ -129,10 +129,11 @@ input {
   margin: 0 1rem;
   width: 0.7rem;
   opacity: 0.6;
+  display: none;
 }
 
 .vertical-bar {
-  display: inline-block;
+  display: none;
   border-left: 1px solid #dfe1e5;
   width: 0;
   height: 100%;
